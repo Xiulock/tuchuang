@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "avatars",
+      "name": "头像"
+    },
+    {
+      "id": "materials",
+      "name": "美化素材"
+    },
+    {
+      "id": "backgrounds",
+      "name": "聊天背景"
+    },
+    {
+      "id": "other",
+      "name": "其他"
+    }
+  ],
+  "stickerNames": {}
+}
