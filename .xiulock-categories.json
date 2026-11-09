@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "avatars",
@@ -22,5 +22,11 @@
       "name": "努嘴"
     }
   ],
-  "stickerNames": {}
+  "stickerNames": {},
+  "favorites": {
+    "1794119486831_2_IMG_9339.jpeg": true
+  },
+  "tags": {},
+  "displayNames": {},
+  "virtualCategories": {}
 }
